@@ -1,1 +1,1 @@
-# todo-app-docker
+# A sample todo app in react
